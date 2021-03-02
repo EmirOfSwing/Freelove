@@ -2,3 +2,6 @@ Ovo je dnevnik jednog programera.
 Ovdje programer piše kako programira.
 
 Znači napravljene su neke izmjene u 12:33 poslije ponoći - praksa je čudo.
+
+
+Znači sad radim u novom "branchu" koji se zove "paragon". Nemam pojma šta je "branch".
