@@ -5,3 +5,5 @@ Znači napravljene su neke izmjene u 12:33 poslije ponoći - praksa je čudo.
 
 
 Znači sad radim u novom "branchu" koji se zove "paragon". Nemam pojma šta je "branch".
+
+Napravio sam branch moje_izmjene i sad kao u tom branchu pravim neke izmjene :D
